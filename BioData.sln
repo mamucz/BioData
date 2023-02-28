@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiometricDataJson", "BiometricDataJson\BiometricDataJson.csproj", "{A2A8C97B-4A7A-4651-962E-4EF0C2C455C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiometricDataJsonTest", "BiometricDataJsonTest\BiometricDataJsonTest.csproj", "{A7D9D224-F068-4230-BD71-98CCA3459A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicElements", "BasicElements\BasicElements.csproj", "{33E3434F-44B2-4E5E-B4B2-E0CAB8A6CC96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Hard|Any CPU = Debug Hard|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A8C97B-4A7A-4651-962E-4EF0C2C455C6}.Debug Hard|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A8C97B-4A7A-4651-962E-4EF0C2C455C6}.Debug Hard|Any CPU.Build.0 = Debug|Any CPU
+		{A2A8C97B-4A7A-4651-962E-4EF0C2C455C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A8C97B-4A7A-4651-962E-4EF0C2C455C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A8C97B-4A7A-4651-962E-4EF0C2C455C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A8C97B-4A7A-4651-962E-4EF0C2C455C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D9D224-F068-4230-BD71-98CCA3459A72}.Debug Hard|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D9D224-F068-4230-BD71-98CCA3459A72}.Debug Hard|Any CPU.Build.0 = Debug|Any CPU
+		{A7D9D224-F068-4230-BD71-98CCA3459A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D9D224-F068-4230-BD71-98CCA3459A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D9D224-F068-4230-BD71-98CCA3459A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D9D224-F068-4230-BD71-98CCA3459A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E3434F-44B2-4E5E-B4B2-E0CAB8A6CC96}.Debug Hard|Any CPU.ActiveCfg = Debug Hard|Any CPU
+		{33E3434F-44B2-4E5E-B4B2-E0CAB8A6CC96}.Debug Hard|Any CPU.Build.0 = Debug Hard|Any CPU
+		{33E3434F-44B2-4E5E-B4B2-E0CAB8A6CC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E3434F-44B2-4E5E-B4B2-E0CAB8A6CC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E3434F-44B2-4E5E-B4B2-E0CAB8A6CC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E3434F-44B2-4E5E-B4B2-E0CAB8A6CC96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17B02B37-9DF7-4C88-8238-D2F796DC0B74}
+	EndGlobalSection
+EndGlobal
